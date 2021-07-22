@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "260069936977",
+    "project_id": "contact-app-raihana",
+    "storage_bucket": "contact-app-raihana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260069936977:android:df9e9540c045b0cca58d70",
+        "android_client_info": {
+          "package_name": "com.contactraihana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260069936977-qjalmnv62lr8vi14baaj5luoflk8n98a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.contactraihana",
+            "certificate_hash": "bd28c78ec213c7d6c9e268235b2c1f5ffb87579e"
+          }
+        },
+        {
+          "client_id": "260069936977-fvftpl4i9gi66r1ng7ig3ate165hd5ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfc-tcw_tHCetbxsOqEnEw8wqMMlQyGVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260069936977-fvftpl4i9gi66r1ng7ig3ate165hd5ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
